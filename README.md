@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0217-contains-duplicate) |
+| [3945-digit-frequency-score](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3024-type-of-triangle) |
+| [3945-digit-frequency-score](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Polygons
 |  |
 | ------- |
