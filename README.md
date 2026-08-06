@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0217-contains-duplicate) |
 | [3024-type-of-triangle](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3024-type-of-triangle) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3024-type-of-triangle) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
