@@ -40,4 +40,8 @@
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
