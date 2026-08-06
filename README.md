@@ -15,11 +15,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0242-valid-anagram) |
 | [3945-digit-frequency-score](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0242-valid-anagram) |
 | [3024-type-of-triangle](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3024-type-of-triangle) |
 ## Math
 |  |
@@ -45,5 +47,6 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0242-valid-anagram) |
 | [3110-score-of-a-string](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
