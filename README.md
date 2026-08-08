@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0009-palindrome-number) |
+| [2235-add-two-integers](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2235-add-two-integers) |
 | [3024-type-of-triangle](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3024-type-of-triangle) |
 | [3945-digit-frequency-score](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Polygons
