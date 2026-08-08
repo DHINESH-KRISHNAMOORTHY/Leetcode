@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0217-contains-duplicate) |
+| [1480-running-sum-of-1d-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3024-type-of-triangle](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3024-type-of-triangle) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -57,4 +58,8 @@
 | [0058-length-of-last-word](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0242-valid-anagram) |
 | [3110-score-of-a-string](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3110-score-of-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
