@@ -13,6 +13,7 @@
 | [1672-richest-customer-wealth](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3024-type-of-triangle](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3024-type-of-triangle) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -57,6 +58,7 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
@@ -65,6 +67,7 @@
 | [0058-length-of-last-word](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0242-valid-anagram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3110-score-of-a-string) |
 ## Prefix Sum
 |  |
