@@ -11,6 +11,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3024-type-of-triangle](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3024-type-of-triangle) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -53,6 +54,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3925-concatenate-array-with-reverse](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
