@@ -29,6 +29,7 @@
 | [0049-group-anagrams](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0242-valid-anagram) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3945-digit-frequency-score](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -76,6 +77,7 @@
 | [0242-valid-anagram](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0242-valid-anagram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3110-score-of-a-string) |
 ## Prefix Sum
 |  |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
