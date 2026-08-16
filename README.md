@@ -18,6 +18,7 @@
 | [2029-stone-game-ix](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3024-type-of-triangle](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3024-type-of-triangle) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2029-stone-game-ix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
