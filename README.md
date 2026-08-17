@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0056-merge-intervals) |
+| [0189-rotate-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0217-contains-duplicate) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0189-rotate-array) |
 | [1563-stone-game-v](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2235-add-two-integers) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
