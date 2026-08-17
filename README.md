@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0125-valid-palindrome) |
@@ -97,6 +98,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0567-permutation-in-string) |
@@ -139,9 +141,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1563-stone-game-v](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1563-stone-game-v) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0056-merge-intervals) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
