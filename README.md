@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0217-contains-duplicate) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0242-valid-anagram) |
 | [3024-type-of-triangle](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3024-type-of-triangle) |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1563-stone-game-v) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
