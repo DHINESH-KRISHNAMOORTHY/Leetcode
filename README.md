@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1563-stone-game-v) |
@@ -91,6 +92,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
