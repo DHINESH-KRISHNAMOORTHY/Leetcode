@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0029-divide-two-integers) |
 | [1563-stone-game-v](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2235-add-two-integers) |
@@ -126,6 +127,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0029-divide-two-integers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
