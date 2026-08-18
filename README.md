@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0217-contains-duplicate) |
@@ -119,6 +120,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0055-jump-game) |
 | [2029-stone-game-ix](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0055-jump-game) |
 | [1563-stone-game-v](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1563-stone-game-v) |
 ## Quicksort
 |  |
