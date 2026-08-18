@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0018-4sum) |
 | [0045-jump-game-ii](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0056-merge-intervals) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0189-rotate-array) |
 | [1563-stone-game-v](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2029-stone-game-ix) |
@@ -76,6 +78,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
