@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0018-4sum) |
 | [0045-jump-game-ii](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0056-merge-intervals) |
@@ -165,4 +166,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
