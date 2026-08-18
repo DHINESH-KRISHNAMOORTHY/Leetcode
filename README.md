@@ -22,6 +22,7 @@
 | [2029-stone-game-ix](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3024-type-of-triangle](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3024-type-of-triangle) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -35,6 +36,7 @@
 | [0242-valid-anagram](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/0567-permutation-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3945-digit-frequency-score](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
