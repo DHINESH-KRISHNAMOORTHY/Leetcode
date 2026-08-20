@@ -28,6 +28,7 @@
 | [2029-stone-game-ix](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3024-type-of-triangle](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -87,6 +88,7 @@
 | [1920-build-array-from-permutation](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/DHINESH-KRISHNAMOORTHY/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
